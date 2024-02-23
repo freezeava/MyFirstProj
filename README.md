@@ -1,1 +1,1 @@
-# this is demo repo fot git and git hub learning journey
+# this is demo repo for git and git hub learning journey
